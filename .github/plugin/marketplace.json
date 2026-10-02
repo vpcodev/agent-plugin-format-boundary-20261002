@@ -1,12 +1,8 @@
 {
   "plugins": [
     {
-      "name": "example-broken",
-      "source": "plugins/broken"
-    },
-    {
-      "name": "example-healthy",
-      "source": "plugins/healthy"
+      "name": "portable-empty-p04",
+      "source": "plugins/portable-empty-p04-5f993139"
     }
   ]
 }
