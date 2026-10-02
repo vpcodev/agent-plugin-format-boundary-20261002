@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "name": "example-broken",
+      "source": "plugins/broken"
+    },
+    {
+      "name": "example-healthy",
+      "source": "plugins/healthy"
+    }
+  ]
+}
